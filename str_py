@@ -1,0 +1,11 @@
+class Example:
+    def __repr__(self):
+        return 'Example(repr)'
+    def __str__(self):
+        return 'Example(str)'
+
+e = Example()
+
+print(repr(e))  # Output: Example(repr)
+print(str(e))   # Output: Example(str)
+print(e)        # Output: Example(str)
