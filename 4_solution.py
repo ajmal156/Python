@@ -9,4 +9,11 @@ if fruit=="apple":
     if color =="Broun":
         print("Over ripe")        
 else:
-    print("Sorry are not avalibal")        
+    print("Sorry are not avalibal")
+if fruit =="banana":
+    if color =="yellow"
+    print("ripe")
+    if color=="green"
+    print("peake")
+else:
+    print(" Sorry,Invalide syntax")
