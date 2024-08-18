@@ -13,5 +13,6 @@ elif char_type=="dog":
     else:
         print("Junior food dog")
 else:
-    print("Sorry, Invalid Syntax try again")                        
+    print("Sorry, Invalid Syntax try again")
+    
 
