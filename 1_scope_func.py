@@ -50,9 +50,3 @@ f2 =actual(4)
 print(f1(3))
 print(f2(5))
 
-
-# print(power_multiply(2, 3, 2))              # (2^3) * 2 = 16
-
-# # More complex example with nested-like behavior
-# combine_ops_complex = actual(["add", "multiply", "subtract"])
-# print(combine_ops_complex(1, 2, 3, 4))     # ((1 + 2) * 3) - 4 = 5
